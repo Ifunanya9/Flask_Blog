@@ -5,8 +5,10 @@
       <w>chikatara</w>
       <w>endblock</w>
       <w>endfor</w>
+      <w>endwith</w>
       <w>ifunanyachi</w>
       <w>kanu</w>
+      <w>sqlalchemy</w>
     </words>
   </dictionary>
 </component>
