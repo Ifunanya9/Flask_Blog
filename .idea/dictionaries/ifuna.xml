@@ -1,6 +1,7 @@
 <component name="ProjectDictionaryState">
   <dictionary name="ifuna">
     <words>
+      <w>bcrypt</w>
       <w>chikamso</w>
       <w>chikatara</w>
       <w>endblock</w>
@@ -9,6 +10,7 @@
       <w>ifunanyachi</w>
       <w>kanu</w>
       <w>sqlalchemy</w>
+      <w>strftime</w>
     </words>
   </dictionary>
 </component>
